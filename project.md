@@ -18,11 +18,11 @@ Orchestration: Jenkins, git.
 
 Automation tools: Ansible.
 
-####CI description:
+#### CI description:
 
 Push(Developer) -> Run pipeline -> Git clone(Jenkins) -> Testing process -> Create new version -> Publish -> Slack notification
 
-####CD description:
+#### CD description:
 
 Git clone (new version or manually selected version) -> Npm install -> Artifacts copying and systemd restart -> Slack notification
 
