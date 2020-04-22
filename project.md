@@ -1,8 +1,8 @@
 Project
 ----
-Project's reporter: Ramanouski Aliaksei
+Project's reporter: *Ramanouski Aliaksei*
 
-Group number: m-sa2-12-20
+Group number: *m-sa2-12-20*
 
 Description of application for deployment
 ----
