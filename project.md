@@ -1,3 +1,16 @@
+Project
+----
+Project's reporter: Ramanouski Aliaksei
+
+Group number: m-sa2-12-20
+
+Description of application for deployment
+
+|node-todo|
+| :------------ |
+|[link](https://github.com/manlyalex/node-todo)|
+It's project written in Java Script programming language using Angular framework + MongoDB.
+[Sheme]()
 ```jenkinsfile
 pipeline {
     agent any
