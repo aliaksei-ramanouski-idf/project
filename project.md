@@ -31,3 +31,5 @@ Git clone (new version or manually selected version) -> Npm install -> Artifacts
 [Pipeline-CI](https://github.com/manlyalex/project/blob/master/01.jenkinsfile)
 
 [Pipeline-CD](https://github.com/manlyalex/project/blob/master/02.jenkinsfile)
+
+https://github.com/manlyalex/project/blob/master/Ramanouski%20Aliaksei.pdf)
