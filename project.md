@@ -10,7 +10,7 @@ Description of application for deployment
 | :------------ |
 |[link](https://github.com/manlyalex/node-todo)|
 
-Simple Todo app with ability to save info in the MongoDB.
+- Simple Todo app with ability to save info in the MongoDB.
 
 ![Sheme](https://github.com/manlyalex/project/blob/master/sheme-03.jpg)
 
