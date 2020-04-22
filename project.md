@@ -9,7 +9,9 @@ Description of application for deployment
 |node-todo|
 | :------------ |
 |[link](https://github.com/manlyalex/node-todo)|
-It's project written in Java Script programming language using Angular framework + MongoDB.
+
+Simple Todo app with ability to save info in the MongoDB.
+
 ![Sheme](https://github.com/manlyalex/project/blob/master/sheme-03.jpg)
 
 Technologies which were used in project
@@ -32,4 +34,4 @@ Git clone (new version or manually selected version) -> Npm install -> Artifacts
 
 [Pipeline-CD](https://github.com/manlyalex/project/blob/master/02.jenkinsfile)
 
-https://github.com/manlyalex/project/blob/master/Ramanouski%20Aliaksei.pdf)
+[Slides](https://github.com/manlyalex/project/blob/master/Ramanouski%20Aliaksei.pdf)
