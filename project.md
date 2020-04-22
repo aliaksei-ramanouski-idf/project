@@ -10,7 +10,7 @@ Description of application for deployment
 | :------------ |
 |[link](https://github.com/manlyalex/node-todo)|
 It's project written in Java Script programming language using Angular framework + MongoDB.
-[Sheme]()
+[Sheme](https://github.com/manlyalex/project/blob/master/sheme-03.jpg)
 ```jenkinsfile
 pipeline {
     agent any
