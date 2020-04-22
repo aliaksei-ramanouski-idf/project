@@ -11,6 +11,21 @@ Description of application for deployment
 |[link](https://github.com/manlyalex/node-todo)|
 It's project written in Java Script programming language using Angular framework + MongoDB.
 ![Sheme](https://github.com/manlyalex/project/blob/master/sheme-03.jpg)
+
+Technologies which were used in project
+----
+Orchestration: Jenkins, git.
+
+Automation tools: Ansible.
+
+CI description:
+
+Push(Developer) -> Run pipeline -> Git clone(Jenkins) -> Testing process -> Create new version -> Publish -> Slack notification
+
+CD description:
+
+Git clone (new version or manually selected version) -> Npm install -> Artifacts copying and systemd restart -> Slack notification
+
 ```jenkinsfile
 pipeline {
     agent any
